@@ -51,7 +51,8 @@ The project leverages matplotlib.pyplot and seaborn to perform comprehensive Exp
   - **Contract and Billing Impact:** The relationship between Contract type, PaperlessBilling, and PaymentMethod with churn.
   - **Numerical Feature Analysis:** Distribution of tenure, MonthlyCharges, and TotalCharges in relation to churn, likely using histograms, box plots, or violin plots.
 
-(Self-correction/Improvement: If you add specific charts later, you can expand this section, e.g., "Visualizations include: count plots for categorical variables showing churn distribution, histograms for numerical variables, and possibly correlation heatmaps.")
+![Screenshot 2025-07-02 150604](https://github.com/user-attachments/assets/757aae6c-055b-48cc-9c46-24c7de940b4c)
+
 
 
 
