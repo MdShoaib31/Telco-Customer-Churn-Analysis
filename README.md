@@ -1,4 +1,4 @@
-# Telco Churn Analysis
+# Telco Churn Analysis- using Python
 ## Project Overview
 This project focuses on analyzing a telecommunications customer dataset to understand the factors contributing to customer churn. By exploring various demographic, service, and billing attributes, this analysis aims to identify patterns and insights that can help predict and mitigate customer churn. The insights gained can be valuable for developing targeted retention strategies.
 
